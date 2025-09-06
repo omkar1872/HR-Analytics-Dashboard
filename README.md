@@ -12,7 +12,13 @@ The main objective of this project is to help HR teams and management:
 
 ## 📊 Dashboard Overview  
 
-![HR Analytics Dashboard](images/hr_analytics_dashboard.jpg)  
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="HR Analytics Dashboard.jpg" alt="HR Analytics Dashboard" width="700"/>
+</p>
+
+---
 
 ### 🔎 Key Metrics Displayed  
 - **Total Employees:** 1470  
